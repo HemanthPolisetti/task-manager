@@ -15,7 +15,7 @@ const About = () => {
             </p>
           <div className='flex items-center justify-between'>
            <a href='https://www.linkedin.com/in/hemanth-polisetti-042308171' target='_blank'> <img src={linkedin} alt='linkedin' className='w-10'/></a>
-           <a href='www.google.com' target='_blank' ><img src={github} alt='github' className='w-16 pl-4'/></a>
+           <a href='https://github.com/HemanthPolisetti/task-manager/' target='_blank' ><img src={github} alt='github' className='w-16 pl-4'/></a>
           </div>
         </div>
     </div>
